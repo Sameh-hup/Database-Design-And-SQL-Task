@@ -22,4 +22,4 @@ In this task, I designed conceptual database schemas (ER Diagrams) for 4 real-wo
 ![Problem 3](problem%203.png)
 
 #### Problem 4: Cargo Shipping
-![Problem 4](problem%204%.png)
+![Problem 4](problem%204.png)
