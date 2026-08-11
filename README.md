@@ -40,6 +40,6 @@ In this task, I designed conceptual database schemas (ER Diagrams) for 4 real-wo
 ---
 
 #### 4️⃣ Problem 4: Cargo Shipping Lines
-📥 [Download Full Size Image](problem%204.jpeg)
+📥 [Download Full Size Image](problem%204.png)
 
-![Problem 4](problem%204.jpeg)
+![Problem 4](problem%204.png)
