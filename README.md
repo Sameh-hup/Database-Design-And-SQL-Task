@@ -14,16 +14,32 @@ In this task, I designed conceptual database schemas (ER Diagrams) for 4 real-wo
 3. Wildlife Sanctuary System
 4. Cargo Shipping Lines
 
+---
+
 ### Solutions & ER Diagrams
 
-#### Problem 1: Software Firm
+#### 1️⃣ Problem 1: Software Firm (TechVision)
+📥 [Download Full Size Image](problem%201.png)
+
 ![Problem 1](problem%201.png)
 
-#### Problem 2: University Research
+---
+
+#### 2️⃣ Problem 2: University Research & Grants
+📥 [Download Full Size Image](problem%202.png)
+
 ![Problem 2](problem%202.png)
 
-#### Problem 3: Wildlife Sanctuary
+---
+
+#### 3️⃣ Problem 3: Wildlife Sanctuary System
+📥 [Download Full Size Image](problem%203.png)
+
 ![Problem 3](problem%203.png)
 
-#### Problem 4: Cargo Shipping
-![Problem 4](problem%204.png)
+---
+
+#### 4️⃣ Problem 4: Cargo Shipping Lines
+📥 [Download Full Size Image](problem%204.jpeg)
+
+![Problem 4](problem%204.jpeg)
